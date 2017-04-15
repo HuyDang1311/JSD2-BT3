@@ -1,0 +1,161 @@
+.wrapper{width: 989px;margin: 20px auto;padding: 5px;}
+.site{
+    margin-bottom: 32px;
+}
+.header{
+    border-top: 3px solid #0A6197;
+    border-bottom: 1px solid #C6C6C6;
+    margin-bottom: 21px;
+    padding: 10px 5px;  
+}
+.left-header{
+    float: left;	
+}
+.left-header h1{
+	 background: url("../images/icon.png") no-repeat right center;
+	 padding-right: 24px;
+}
+.left-header h1 a{
+    text-transform: uppercase;
+    color: #166492;  
+}
+.right-header{
+    float: right;
+}
+.right-header ul{}
+.right-header ul li{
+    display: inline-block;
+    margin-left: 10px;
+    text-transform: uppercase;
+    padding-top: 11px;
+    font-size: 13px;
+}
+.right-header ul li a{
+    color: gray;
+}
+.clr{
+    clear: both;
+}
+.left-content{
+    width: 340px;
+    float: left;
+    margin-right: 25px;
+}
+.left-content .title{	
+	width: 340px;	
+	font-size: 18px;	
+	background-color: #02041D;	
+	position: absolute;
+	bottom: 0;	
+	height: 47px;
+	padding-top: 9px;
+	text-align: center;
+	line-height: 22px;
+	opacity: 0.5;
+}
+.left-content #first{
+    width: 340;
+    height: 230;
+    background: url(../images/tt_lon.jpg) no-repeat center center;
+    position: relative;
+    background-size: cover;
+}
+.left-content h2 a{
+    text-align: center;
+    color: white;
+}
+.left-content p{
+    margin-top: 17px;
+    color: gray;
+    font-size: 14px;
+    text-align: justify;
+    line-height: 18px;
+}
+.center-content{
+    width: 294;
+    float: left;
+    margin-right: 25px;
+}
+.center-content ul{}
+.center-content ul li{
+    margin-bottom: 17px;
+}
+.center-content ul li .first-center-content h3{
+    margin-bottom: 10px;
+}
+.center-content ul li .first-center-content h3 a{
+    line-height: 18px;
+    color: black;
+    font-size: 16px;
+}
+.center-content ul li .second-center-content{
+    margin-bottom: 32px;
+}
+.center-content ul li .second-center-content .left-item{
+    width: 100px;
+    height: 76px;
+    float: left;
+    margin-right: 16px;
+}
+.center-content ul li .second-center-content .left-item img{}
+.center-content ul li .second-center-content .right-item{
+    width: 170px;
+    float: left;
+}
+.center-content ul li .second-center-content .right-item p{
+    font-size: 14px;
+    text-align: justify;
+    color: gray;
+    line-height: 16px;
+}
+.center-content ul li .border{
+	border-bottom: 1px dotted #DBDBDB;	
+	margin: 15px 0;
+}
+.right-content{
+    width: 294;
+    float: left;
+}
+.right-content ul li{
+    margin-bottom: 18px;
+}
+.right-content ul li a{
+    color: black;
+    line-height: 20px;
+}
+.right-content ul li .border{
+    border-bottom: 1px dotted #DBDBDB;
+    margin-top: 8px;
+}		
+a{
+	text-decoration: none;	
+}	
+a:hover{
+	background-color: #0099FF;
+	color: blue;
+}
+*{
+	font-family:arial;
+}
+.left-content #second{
+    width: 340;
+    height: 230;
+    background: url(../images/pl_lon.jpg) no-repeat center center;
+    position: relative;
+    background-size: cover;
+}
+.left-content #thrid{
+    width: 340;
+    height: 230;
+    background: url(../images/kd_lon.jpg) no-repeat center center;
+    position: relative;
+    background-size: cover;
+}
+.left-content #four{
+    width: 340;
+    height: 230;
+    background: url(../images/ds_lon.jpg) no-repeat center center;
+    position: relative;
+    background-size: cover;
+}
+
